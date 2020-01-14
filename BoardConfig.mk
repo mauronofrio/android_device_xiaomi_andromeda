@@ -55,7 +55,7 @@ TARGET_PREBUILT_KERNEL :=  $(DEVICE_PATH)/prebuilt/zImage
 
 
 # QCOM
-TARGET_USE_SDCLANG := true
+#TARGET_USE_SDCLANG := true
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := andromeda
