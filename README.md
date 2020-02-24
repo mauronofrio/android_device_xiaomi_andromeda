@@ -52,8 +52,9 @@ fastboot boot out/target/product/andromeda/recovery.img
 
 ## Other Sources
 
-Kernel Sources: using precompiled stock kernel
+Kernel Sources: https://github.com/Inkypen79/kernel_xiaomi_andromedal
 
 ## Thanks
 
 - Thanks to @PeterCxy for the commits and the base: https://github.com/PeterCxy/android_device_xiaomi_violet-twrp
+- Thanks to @Inkypen79 for the new kernel source with f2fs support
